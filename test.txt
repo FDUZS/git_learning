@@ -1,3 +1,5 @@
 this is just a test file.
 
 add a second row.
+
+今天建了一个 hexo 博客又给删了。
