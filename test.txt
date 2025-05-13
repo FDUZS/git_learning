@@ -5,3 +5,5 @@ this is just a test file.
 测试 GitHub commit signature verification。
 
 test test test
+
+test gpg
